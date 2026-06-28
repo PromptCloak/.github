@@ -3,7 +3,7 @@ An 8-layer, zero-trust prompt injection defense system designed for edge deploym
 
 ## 📊 Performance
 * **Recall:** 95.5%
-  **Precision:** 98.1%
+* **Precision:** 98.1%
 * **Avg Latency:** 7.94ms (p95: 16ms)
 
 ## 🏗️ Architecture
